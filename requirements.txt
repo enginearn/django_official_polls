@@ -1,5 +1,13 @@
 asgiref
+black
+click
+colorama
 Django
+isort
+mypy-extensions
+pathspec
+platformdirs
 psycopg2
 sqlparse
+tomli
 tzdata
